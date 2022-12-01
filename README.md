@@ -1,4 +1,4 @@
-# rokubun
+# Rokubun
 
 Profesional frontend project for SPEAR INTERACTIVE
 Client: Lyra Innovation
